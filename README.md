@@ -6,7 +6,7 @@ https://www.projectpro.io/article/reinforcement-learning-projects-ideas-for-begi
 
 
 
-- Wordle solver
+- Wordle solver\
 Wordle1: vedi paper caricato\
 Wordle2: https://wandb.ai/andrewkho/wordle-solver/reports/Solving-Wordle-with-Reinforcement-Learning--VmlldzoxNTUzOTc4
 
