@@ -14,6 +14,8 @@ Di questi direi fattibili:
 
 Using information theory: https://youtu.be/v68zYyaEmEA and https://youtu.be/fRed0Xmc2Wg
 
+Q Learning senza paper: https://github.com/danschauder/wordlebot/blob/main/Wordle_Bot.ipynb
+
 Wordle1: vedi paper caricato\
 Wordle2: https://wandb.ai/andrewkho/wordle-solver/reports/Solving-Wordle-with-Reinforcement-Learning--VmlldzoxNTUzOTc4 \
 Wordle3: vedi paper caricato\
