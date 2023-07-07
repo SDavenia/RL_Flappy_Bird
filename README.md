@@ -11,6 +11,9 @@ Di questi direi fattibili:
 
 
 - Wordle solver\
+
+Using information theory: https://youtu.be/v68zYyaEmEA and https://youtu.be/fRed0Xmc2Wg
+
 Wordle1: vedi paper caricato\
 Wordle2: https://wandb.ai/andrewkho/wordle-solver/reports/Solving-Wordle-with-Reinforcement-Learning--VmlldzoxNTUzOTc4 \
 Wordle3: vedi paper caricato\
