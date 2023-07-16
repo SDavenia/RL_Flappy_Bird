@@ -20,7 +20,10 @@ Standard RL techniques for policy control will be attempted and compared:
 **Potenziali domande**
 - Finite horizon.
 
-
+Abbiamo aumentato solo alpha0 e epsilon0 su SARSA.
+- Su epsilon via via che aumentavamo epsilon0 cresceva sempre, c'è da vedere se continua a crescere o a una certa peggiora (abbiamo fatto 0.05, 0.1, 0.15).
+- Su alpha0 abbiamo visto che migliora e poi peggiora.
+- Mettendoli insieme abbiamo preso l'alpha0 migliore di prima e epsilon0 0.15, sembra fare peggio che con alpha costante (punto 1). Quindi forse ha senso ottimizzarli insieme.
 
 
 **Michele's problem(s):** \
