@@ -19,7 +19,6 @@ Standard RL techniques for policy control will be attempted and compared:
 
 **Potenziali domande**
 - Finite horizon.
-- Controllare Exp-SARSA off policy o on-policy
 - Controllare se Q-Learning tenta di approssimare direttamente the optiamal one.
 
 Abbiamo aumentato solo alpha0 e epsilon0 su SARSA.
