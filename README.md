@@ -5,7 +5,7 @@ It was done in collaboration with [@alessimichele](https://github.com/alessimich
 [Here](...) you can find the final presentation slides.
 
 # Flappy Bird solver
-The goal is to teach an agent how to play the game flappy bird using the [text-gym-environment](https://gitlab-research.centralesupelec.fr/stergios.christodoulidis/text-flappy-bird-gym/-/tree/master).
+The goal is to teach an agent how to play the game flappy bird using the [text-flappy-bird-gym](https://gitlab-research.centralesupelec.fr/stergios.christodoulidis/text-flappy-bird-gym/-/tree/master).
 
 The agent will have no knowledge of the environment but perfect observability of the states. As such it is phrased as a model-free reinforcement learning problem. 
 
