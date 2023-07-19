@@ -1,5 +1,6 @@
 # Reinforcement Learning Project
-This repository contains the project for the UniTS reinforcement learning course AA 2022-23.
+This repository contains the project for the UniTS reinforcement learning course A.Y. 2022-23. 
+It was done in collaboration with @alessimichele and @ElenaRivaroli.
 
 [Here](...) you can find the final presentation slides.
 
@@ -17,7 +18,7 @@ Standard Reinforcement Learning techniques for policy control will be attempted 
 # Results
 
 For each methods, various set of hyperparameters were tested.
-In [Plots](/Plots/) folder are stored the resulting plots for each parameters configuration:
+The resulting plots are stored in the [Plots](/Plots/) folder for each hyperparameter configuration:
 -   [MC Control](/Plots/MC_plots)
 -   [SARSA](/Plots/SARSA_plots)
 -   [Expected SARSA](/Plots/Exp_SARSA_plots)
