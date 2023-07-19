@@ -1,6 +1,6 @@
 # Reinforcement Learning Project
 This repository contains the project for the UniTS reinforcement learning course A.Y. 2022-23. 
-It was done in collaboration with @alessimichele and @ElenaRivaroli.
+It was done in collaboration with [@alessimichele] and [@ElenaRivaroli].
 
 [Here](...) you can find the final presentation slides.
 
