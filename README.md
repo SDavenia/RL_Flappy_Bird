@@ -19,6 +19,7 @@ Standard RL techniques for policy control will be attempted and compared:
 
 **Potenziali domande**
 - Finite horizon.
+- Controllare se Q-Learning tenta di approssimare direttamente the optiamal one.
 
 Abbiamo aumentato solo alpha0 e epsilon0 su SARSA.
 - Su epsilon via via che aumentavamo epsilon0 cresceva sempre, c'è da vedere se continua a crescere o a una certa peggiora (abbiamo fatto 0.05, 0.1, 0.15).
