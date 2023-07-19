@@ -18,13 +18,13 @@ Standard Reinforcement Learning techniques for policy control will be attempted 
 # Results
 
 For each methods, various set of hyperparameters were tested.
-The resulting plots are stored in the [Plots](/Plots/) folder for each hyperparameter configuration:
--   [MC Control](/Plots/MC_plots)
--   [SARSA](/Plots/SARSA_plots)
--   [Expected SARSA](/Plots/Exp_SARSA_plots)
--   [Q-LEarning](/Plots/Q_plots)
+The resulting plots are stored in the [Plots](/Results/Plots/) folder for each hyperparameter configuration:
+-   [MC Control](/Results/Plots/MC_plots)
+-   [SARSA](/Results/Plots/SARSA_plots)
+-   [Expected SARSA](/Results/Plots/Exp_SARSA_plots)
+-   [Q-LEarning](/Results/Plots/Q_plots)
 
-In [Summary](/Summary/) folder are stored some statistics for each parameters configuration, as following:
+In [Summary](/Results/Summary/) folder are stored some statistics for each parameters configuration, as following:
 $lambda$ | $k_{\alpha}$  | $k_{\varepsilon}$ | mean | median  |standard deviation
 
 
