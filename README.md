@@ -24,9 +24,7 @@ The resulting plots are stored in the [Plots](/Results/Plots/) folder for each h
 -   [Expected SARSA](/Results/Plots/Exp_SARSA_plots)
 -   [Q-LEarning](/Results/Plots/Q_plots)
 
-In [Summary](/Results/Summary/) folder are stored some statistics for each parameters configuration, as following:
-$lambda$ | $k_{\alpha}$  | $k_{\varepsilon}$ | mean | median  |standard deviation
-
+In [Summary](/Results/Summary/) folder are stored some statistics for each parameters configuration. The formatting of the files is described in [analysis](analysis.ipynb).
 
 
 
