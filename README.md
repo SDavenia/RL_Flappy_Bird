@@ -28,11 +28,12 @@ In [Summary](/Results/Summary/) folder are stored some statistics for each param
 
 **Here are final results!**
 
-_Agent playing before training._
-![Agent playing before training](/Results/GIFs/before.gif)
+Agent playing before training: \
+<img src="/Results/GIFs/before.gif" width="250" height="350"/>
 
-_Agent playing after training._
-![Agent playing after training](/Results/GIFs/after.gif)
+Agent playing after training: \
+<img src="/Results/GIFs/after.gif" width="250" height="350"/>
+
 
 ### Some notes about the code
 To implement this code we started from the one provided by the course tutor [Emanuele Panizon](https://www.ictp.it/member/emanuele-panizon). Moreover, chatGPT was used in the realisation of some small parts of the code, and this is noted accordingly in the code. 
