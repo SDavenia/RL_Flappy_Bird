@@ -2,7 +2,7 @@
 This repository contains the project for the UniTS reinforcement learning course A.Y. 2022-23. 
 It was done in collaboration with [@alessimichele](https://github.com/alessimichele) and [@ElenaRivaroli](https://github.com/ElenaRivaroli).
 
-[Here](...) you can find the final presentation slides.
+[Here](RL_Slides.pdf) you can find the final presentation slides.
 
 # Flappy Bird solver
 The goal is to teach an agent how to play the game flappy bird using the [text-flappy-bird-gym](https://gitlab-research.centralesupelec.fr/stergios.christodoulidis/text-flappy-bird-gym/-/tree/master).
