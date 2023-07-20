@@ -28,8 +28,10 @@ In [Summary](/Results/Summary/) folder are stored some statistics for each param
 
 **Here are final results!**
 
+_Agent playing before training._
 ![Agent playing before training](/Results/GIFs/before.gif)
 
+_Agent playing after training._
 ![Agent playing after training](/Results/GIFs/after.gif)
 
 ### Some notes about the code
