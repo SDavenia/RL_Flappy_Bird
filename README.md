@@ -26,6 +26,12 @@ The resulting plots are stored in the [Plots](/Results/Plots/) folder for each h
 
 In [Summary](/Results/Summary/) folder are stored some statistics for each parameters configuration. The formatting of the files is described in [analysis](analysis.ipynb).
 
+**Here are final results!**
+
+![Agent playing before training](/Results/GIFs/before.gif)
+
+![Agent playing after training](/Results/GIFs/after.gif)
+
 ### Some notes about the code
 To implement this code we started from the one provided by the course tutor [Emanuele Panizon](https://www.ictp.it/member/emanuele-panizon). Moreover, chatGPT was used in the realisation of some small parts of the code, and this is noted accordingly in the code. 
 
